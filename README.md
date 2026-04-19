@@ -4,7 +4,7 @@ Oracle 12c Single Instance 환경 구축 가이드입니다.
 
 ---
 
-## 환경 구성
+### 환경 구성
 
 | 항목 | 내용 |
 |------|------|
@@ -15,7 +15,7 @@ Oracle 12c Single Instance 환경 구축 가이드입니다.
 
 ---
 
-## 설치 순서
+### 설치 순서
 
 | 순서 | 문서 |
 |------|------|
@@ -26,7 +26,7 @@ Oracle 12c Single Instance 환경 구축 가이드입니다.
 
 ---
 
-## 주요 특징
+### 주요 특징
 
 - Oracle 12c Single Instance 환경 구성
 - NETCA를 활용한 리스너 구성
